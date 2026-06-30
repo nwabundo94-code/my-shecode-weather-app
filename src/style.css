@@ -10,3 +10,21 @@ body {
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   border-radius: 16px;
 }
+
+.search-input-form {
+  background-color: #f9f7fe;
+  border: none;
+  border-radius: 8px;
+  width: 80%;
+  padding: 15px 20px;
+}
+
+.search-form-button {
+  background-color: blue;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 6px;
+  margin-left: 5px;
+  font-size: 16px;
+  color: white;
+}
